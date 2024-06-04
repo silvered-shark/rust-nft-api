@@ -7,6 +7,7 @@ Rust NFT API
 ![image](https://github.com/luishsr/rust-nft-api/assets/80909424/def2332b-539f-42f2-9a4a-6b154652f4f7)
 
 
+
 Purpose
 -------
 
