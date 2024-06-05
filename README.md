@@ -8,7 +8,7 @@ Rust NFT API
 
 
 Purpose
--------
+---------------
 
 Rust NFT API is a simple RESTful API developed in Rust that offers functionalities for creating, retrieving, and listing Non-Fungible Tokens (NFTs) on the Ethereum blockchain, along with managing their off-chain metadata.
 
